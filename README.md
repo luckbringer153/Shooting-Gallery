@@ -1,0 +1,1 @@
+This game has two scenes. It starts on a start screen, allowing you to go to the next scene when you click "Play" and exit the application when you click "Exit". Gameplay starts and ends on the second scene, which has a button to allow you to go back to the first scene.
